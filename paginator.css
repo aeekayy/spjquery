@@ -1,0 +1,25 @@
+span#pagination_control.yui-pg-container
+{
+    bottom: 0px;
+    clear: both;
+    display: block;
+    margin: 20px 0 15px 0;
+    padding: 5px;
+    position: relative;
+    text-align: center;
+}
+
+.yui-pg-previous
+{
+    
+}
+
+.yui-pg-current
+{
+    
+}
+
+.yui-pg-next
+{
+    
+}
